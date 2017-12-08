@@ -1,0 +1,17 @@
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\AuthToken.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Attachment.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Entity.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\api\BotMessageSender.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\BotAuthenticator.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Value.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Activity.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\api\BotController.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\BotAPIMain.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\MembersAdded.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\MembersRemoved.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Recipient.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Conversation.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\Content.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\Identification.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\From.java
+H:\My_work\EclipseWorkspace\bot-api\src\main\java\com\swissre\botapp\dto\activity\ChannelData.java

@@ -1,0 +1,17 @@
+com\swissre\botapp\api\BotController.class
+com\swissre\botapp\dto\activity\MembersAdded.class
+com\swissre\botapp\dto\Identification.class
+com\swissre\botapp\dto\activity\Recipient.class
+com\swissre\botapp\dto\activity\Value.class
+com\swissre\botapp\dto\activity\Conversation.class
+com\swissre\botapp\dto\activity\ChannelData.class
+com\swissre\botapp\dto\activity\Entity.class
+com\swissre\botapp\dto\activity\From.class
+com\swissre\botapp\dto\activity\Content.class
+com\swissre\botapp\BotAuthenticator.class
+com\swissre\botapp\BotAPIMain.class
+com\swissre\botapp\dto\activity\MembersRemoved.class
+com\swissre\botapp\dto\activity\Activity.class
+com\swissre\botapp\dto\activity\Attachment.class
+com\swissre\botapp\dto\AuthToken.class
+com\swissre\botapp\api\BotMessageSender.class
